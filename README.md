@@ -19,7 +19,7 @@
 
 ## Видео геймплея
 
-<video src="screenshots/Recording%202026-05-17%20152120.mp4" controls></video>
+[Скачать видео геймплея](screenshots/Recording%202026-05-17%20152120.mp4)
 
 ## Как играть
 
