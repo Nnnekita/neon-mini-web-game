@@ -1,43 +1,45 @@
 # Neon Tic-Tac-Toe
 
-Neon-styled Tic-Tac-Toe web game with synthwave aesthetics. Built with vanilla HTML, CSS, and JavaScript.
+Неоновая веб-игра "Крестики-нолики" в стиле synthwave. Написана на чистом HTML, CSS и JavaScript.
 
-## Features
+## Особенности
 
-- Neon glow effects with pink (#ff007f) and cyan (#00ffff) color scheme
-- Synthwave-inspired dark background with gradient overlays
-- Animated title with gradient shift effect
-- Pulsing animations for placed marks
-- Win condition highlighting
-- Score tracking (X wins, O wins, Draws)
-- Sound effects on each move
-- Responsive design for mobile devices
+- Неоновое свечение в розовых (#ff007f) и голубых (#00ffff) тонах
+- Тёмный фон с градиентами в стиле synthwave
+- Анимированный заголовок с переливающимся градиентом
+- Пульсирующая анимация для установленных меток
+- Подсветка выигрышной комбинации
+- Счётчик побед (X, O, ничьи)
+- Звуковые эффекты при каждом ходе
+- Адаптивный дизайн для мобильных устройств
 
-## Screenshots
+## Скриншоты
 
-![Game Board](screenshots/board.png)
-*Neon game board with synthwave styling*
+> **Примечание:** Добавьте скриншоты игры в папку `screenshots/` и обновите пути ниже.
 
-![Gameplay](screenshots/gameplay.png)
-*X and O marks with neon glow effects*
+![Игровое поле](screenshots/board.png)
+*Неоновое игровое поле в стиле synthwave*
 
-## How to Play
+![Геймплей](screenshots/gameplay.png)
+*Метки X и O с неоновым свечением*
 
-1. Open `index.html` in a browser
-2. Click on any cell to place your mark
-3. Players alternate between X (pink) and O (cyan)
-4. First to get 3 in a row wins!
+## Как играть
 
-## Tech Stack
+1. Откройте `index.html` в браузере
+2. Кликайте по ячейкам, чтобы поставить свою метку
+3. Игроки ходят по очереди: X (розовый) и O (голубой)
+4. Побеждает тот, кто первым соберёт 3 в ряд!
+
+## Технологии
 
 - HTML5
-- CSS3 (Grid, Animations, Gradients)
+- CSS3 (Grid, анимации, градиенты)
 - Vanilla JavaScript
 
-## Created by
+## Автор
 
 **Nnnekita**
 
-## License
+## Лицензия
 
 MIT
