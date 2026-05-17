@@ -15,13 +15,11 @@
 
 ## Скриншоты
 
-> **Примечание:** Добавьте скриншоты игры в папку `screenshots/` и обновите пути ниже.
+![Игровое поле](screenshots/Screenshot%202026-05-17%20152150.png)
 
-![Игровое поле](screenshots/board.png)
-*Неоновое игровое поле в стиле synthwave*
+## Видео геймплея
 
-![Геймплей](screenshots/gameplay.png)
-*Метки X и O с неоновым свечением*
+<video src="screenshots/Recording%202026-05-17%20152120.mp4" controls></video>
 
 ## Как играть
 
