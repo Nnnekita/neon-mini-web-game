@@ -1,43 +1,57 @@
-# Neon Tic-Tac-Toe
+# Neon Tic-Tac-Toe — Неоновая игра
+
+[![GitHub Pages](https://img.shields.io/badge/GitHub_Pages-Deployed-32CD32?style=for-the-badge&logo=github)](https://nnnekita.github.io/neon-mini-web-game/)
+[![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)]()
+[![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)]()
+[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)]()
+[![License](https://img.shields.io/badge/License-MIT-blue?style=for-the-badge)](LICENSE)
 
 Неоновая веб-игра "Крестики-нолики" в стиле synthwave. Написана на чистом HTML, CSS и JavaScript.
 
-## Особенности
+## 📸 Скриншоты
 
-- Неоновое свечение в розовых (#ff007f) и голубых (#00ffff) тонах
-- Тёмный фон с градиентами в стиле synthwave
-- Анимированный заголовок с переливающимся градиентом
-- Пульсирующая анимация для установленных меток
-- Подсветка выигрышной комбинации
-- Счётчик побед (X, O, ничьи)
-- Звуковые эффекты при каждом ходе
-- Адаптивный дизайн для мобильных устройств
+![Игровое поле](./screenshots/Screenshot%202026-05-17%20152150.png)
 
-## Скриншоты
+*Игровой процесс с неоновым свечением*
 
-![Игровое поле](screenshots/Screenshot%202026-05-17%20152150.png)
+## ✨ Возможности
 
-## Видео геймплея
+- 🌑 Неоновое свечение в розовых и голубых тонах
+- 🎬 Анимации при установке меток
+- ✨ Подсветка выигрышной комбинации
+- 🔊 Звуковые эффекты при каждом ходе
+- 📊 Счётчик побед (X, O, ничьи)
+- 📱 Адаптивный дизайн
 
-[Скачать видео геймплея](screenshots/Recording%202026-05-17%20152120.mp4)
+## 🛠 Стек
 
-## Как играть
+- **HTML5** — разметка игрового поля
+- **CSS3** — Grid, анимации, градиенты, неоновое свечение
+- **JavaScript** — логика игры, звуковые эффекты
 
-1. Откройте `index.html` в браузере
-2. Кликайте по ячейкам, чтобы поставить свою метку
-3. Игроки ходят по очереди: X (розовый) и O (голубой)
-4. Побеждает тот, кто первым соберёт 3 в ряд!
+## 🚀 Быстрый старт
 
-## Технологии
+```bash
+# Клонирование репозитория
+git clone https://github.com/Nnnekita/neon-mini-web-game.git
+cd neon-mini-web-game
 
-- HTML5
-- CSS3 (Grid, анимации, градиенты)
-- Vanilla JavaScript
+# Открыть index.html в браузере
+```
 
-## Автор
+## 🌐 Демо
 
-**Nnnekita**
+[Живая демонстрация](https://nnnekita.github.io/neon-mini-web-game/)
 
-## Лицензия
+## 📝 Лицензия
 
 MIT
+
+## 👤 Автор
+
+**Nnnekita**
+- GitHub: [@Nnnekita](https://github.com/Nnnekita)
+
+---
+
+© 2026 Nnnekita. Создано на чистом HTML, CSS и JavaScript.
